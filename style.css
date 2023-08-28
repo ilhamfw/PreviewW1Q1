@@ -6,6 +6,10 @@
     color:white;
 }
 
+.section{
+    display: flex;
+    
+}
 img{
   border-radius: 50%; 
   width: 100px;
@@ -13,6 +17,15 @@ img{
 }
 
 .section p{
-    display: contents;
+    flex: 1;
+}
 
+article{
+  padding: 8px; 
+  margin-left: 100px; 
+  border-radius: 4px; 
+}
+
+.footer a{
+    padding-right: 15px;
 }
