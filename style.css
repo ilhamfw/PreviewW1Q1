@@ -11,3 +11,8 @@ img{
   width: 100px;
   height: 100px;
 }
+
+.section p{
+    display: contents;
+
+}
